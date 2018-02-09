@@ -1,0 +1,11 @@
+{
+  "name": "typesmith-autoparent",
+  "version": "1.0.0",
+  "description": "creates parent-child relationships between elements in a typesmith database based on their names.",
+  "main": "./lib/typesmith-autoparent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robb Surridge",
+  "license": "MIT"
+}
